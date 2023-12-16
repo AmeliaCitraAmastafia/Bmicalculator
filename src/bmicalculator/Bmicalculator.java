@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Vivobook
+ * @author 
  */
 public class Bmicalculator {
 public static void main(String[] args) {
